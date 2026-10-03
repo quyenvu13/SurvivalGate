@@ -7,7 +7,7 @@ GenLayer Intelligent Contract · StudioNet (chain 61999) · py-genlayer v0.2 (`#
 | | |
 |---|---|
 | Contract | `contracts/SurvivalGate.py` |
-| Address (StudioNet) | `<CONTRACT_ADDRESS>` |
+| Address (StudioNet) | `0x294667415F31825ddC29f986B47c3dE747c1ff85` ([explorer](https://explorer-studio.genlayer.com/address/0x294667415F31825ddC29f986B47c3dE747c1ff85)) |
 | Deploy tx | `0xf3964da6536b5268f4e62b3995b4333c51542e34617d0c388906e7e604c243c8` |
 | Source SHA-256 | `65249de251e03d4fda463979f99be8220bde0f5f0a2c955039315b751cd42c1d` |
 | Tested on-chain | `RUNTIME_EVIDENCE.md` — 11 transactions, one hash per row, all as expected |

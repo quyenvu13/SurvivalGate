@@ -14,7 +14,7 @@ Run date: 2026-10-03, GenLayer Studio, mode Normal (Full Consensus). "EP" is the
 
 ## Intelligent Contract — 11 transactions
 
-Contract address: `<CONTRACT_ADDRESS>` · deploy tx `0xf3964da6536b5268f4e62b3995b4333c51542e34617d0c388906e7e604c243c8` (FINALIZED · SUCCESS)
+Contract address: `0x294667415F31825ddC29f986B47c3dE747c1ff85` ([explorer](https://explorer-studio.genlayer.com/address/0x294667415F31825ddC29f986B47c3dE747c1ff85)) · deploy tx `0xf3964da6536b5268f4e62b3995b4333c51542e34617d0c388906e7e604c243c8` (FINALIZED · SUCCESS)
 Author wallet `0x923a09d0D6e5C242e36C3c1D2071835917cC0bDF` · other wallet `0x76DD809f34e0B72d9339bc509e1E19FaFEB445c2` · agreement id `bdbcd199912aba2f0a8a37a2b0a0e558b918d3097b82ab81486d32aefe69cdde`
 Label for every `record_clause`: `the other side`. All rows in **one** agreement.
 
